@@ -1,4 +1,4 @@
 Introduction to the different East African music
-<sub>Ethiopian music</sub>
-<sub>Somalian music</sub>
-<sub>Eritrean music</sub>
+<sub>Ethiopian_music</sub>
+<sub>Somalian_music</sub>
+<sub>Eritrean_music</sub>
