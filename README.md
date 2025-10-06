@@ -1,2 +1,2 @@
-# Purpose
-African culture
+# Africa
+Culture
